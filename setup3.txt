@@ -1,6 +1,4 @@
 This is for the next branch
-<<<<<<< HEAD
 I modified the setup3
-=======
 i want to add some feature
->>>>>>> main1
+vinces
